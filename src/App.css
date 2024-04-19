@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px;
+ /* background-color: rgb(145, 174, 210);
+ color: #fff; */
+ /* background-color: rgb(136, 212, 160); */
+}
+.correct{
+  background-color: green;
+  
+}
+.wrong{
+  background-color: red;
+ 
+}
+.options{
+  height: 30px;
+  width: 300px;
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 5px;
+}
+/* li{
+  height: 30px;
+  width: 300px;
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 5px;
+} */
